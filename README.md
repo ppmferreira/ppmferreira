@@ -13,8 +13,8 @@
 - I often listen music
 - I code as a hobby too
 ## 💬 Want to talk to me?
-- I can easily be reached in my email.
-- You can reach me through linkedin as well!
+- I can easily be reached in my [email](ppmferreira@outlook.com).
+- You can reach me through [linkedin](https://www.linkedin.com/in/pedro-ferreira-8a376a196/) as well!
 ## 🔨 What I've built:
 - You can check my website. (Coming Soon)
 - You can also check my public repos!
