@@ -2,7 +2,7 @@
 ### Hi there, its good to see you here 👋🏽
 ## 👨🏽‍💼 A bit about who I am
 - I'm a Brazilian based full stack developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
-- I'm studying and working with the JavaScript stack since 2021.
+-  I'm a student at Bootcamp Spread Fullstack Developer, where I learned in practice on the most modern technologies of web.
 ## 💡 What I believe in fast topics
 - Will power is better than knoledge.
 - Quality is better than Quantity
