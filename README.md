@@ -1,4 +1,25 @@
-### Hi there 👋
+
+### Hi there, its good to see you here 👋🏽
+## 👨🏽‍💼 A bit about who I am
+I'm a Brazilian based full stack developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
+I'm studying and working with the JavaScript stack since 2021.
+💡 What I believe in fast topics
+Will power is better than knoledge.
+Quality is better than Quantity
+Health body is equal to Health mind
+Keep it simple - There is no need to overengineer.
+🏄🏽‍♂️ My hobbies
+I like to surf
+I often play guitar
+I code as a hobby too
+💬 Want to talk to me?
+I can easily be reached in my email.
+You can reach me through linkedin as well!
+🔨 What I've built:
+You can check my website.
+You can also check my public repos!
+👋🏽 That's all folks!
+Hope you enjoyed and take care 🔥
 
 <!--
 **ppmferreira00/ppmferreira00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
