@@ -4,7 +4,7 @@
 - I'm a Brazilian based full stack developer focused on crafting clean & user‑friendly experiences, I am passionate about building excellent software that improves the lives of those around me.
 -  I'm a student at Bootcamp Spread Fullstack Developer, where I learned in practice on the most modern technologies of web.
 ## 💡 What I believe in fast topics
-- Will power is better than knoledge.
+- Hard work beats talent when talent doesn't work hard.
 - Quality is better than Quantity
 - Health body is equal to Health mind
 - Keep it simple - There is no need to overengineer.
