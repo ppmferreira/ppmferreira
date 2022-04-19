@@ -15,7 +15,7 @@
 - I love airplanes and aviation
 ## 💬 Want to talk to me?
 - I can easily be reached in my [email](mailto:ppmferreira@outlook.com).
-- You can reach me through [linkedin](https://www.linkedin.com/in/pedro-ferreira-8a376a196/) as well!
+- You can reach me through [linkedin](www.linkedin.com/in/ppmferreira) as well!
 ## 🔨 What I've built:
 - You can check my website. (Coming Soon)
 - You can also check my public repos!
