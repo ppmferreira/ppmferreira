@@ -5,9 +5,9 @@
 -  I'm a student at Bootcamp Spread Fullstack Developer, where I learned in practice on the most modern technologies of web.
 ## 💡 What I believe in fast topics
 - Hard work beats talent when talent doesn't work hard.
-- Quality is better than Quantity
-- Health body is equal to Health mind
-- Keep it simple - There is no need to overengineer.
+- Quality is better than Quantity.
+- Health body is equal to Health mind.
+- Being excellent is doing the basics well.
 ## 🏀 My hobbies
 - I like to basketball
 - I often listen music
