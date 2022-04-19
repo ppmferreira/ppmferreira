@@ -12,6 +12,7 @@
 - I like to basketball
 - I often listen music
 - I code as a hobby too
+- I love airplanes and aviation
 ## 💬 Want to talk to me?
 - I can easily be reached in my [email](mailto:ppmferreira@outlook.com).
 - You can reach me through [linkedin](https://www.linkedin.com/in/pedro-ferreira-8a376a196/) as well!
