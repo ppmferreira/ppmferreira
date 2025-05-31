@@ -8,7 +8,7 @@
 </div>
 <div style="display: inline_block">
   <h2>👨🏽‍💻 My Skills:</h2>
-  <p>I love learning new technologies, but here is a list of the few I'm most proficient with! Additionally, I am fascinated by health sciences and am currently an undergraduate student in pharmacy. I am also passionate about business.</p>
+  <p>I love learning new technologies, but here is a list of the few I'm most proficient with! Additionally, I am fascinated by health sciences and am currently an undergraduate student in pharmacy. I am also passionate about business. </p>
 </div>
 
 
