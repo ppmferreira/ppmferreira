@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋🏻, I'm Pedro</h1>
-<h3 align="center">A Bioinformatics and developer that loves to build amazing things with his knowledge.</h3>
+<h3 align="center"></h3>
 
 <div align="center">
   <a href="https://github.com/ppmferreira" />
