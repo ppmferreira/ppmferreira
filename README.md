@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppmferreira/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppmferreira)
-[![Email](https://img.shields.io/badge/Email-contato%40pedroferreira.dev-087E8B?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contato@pedroferreira.dev)
+[![Email](https://img.shields.io/badge/EMAIL-contato%40pedroferreira.dev-087E8B?style=for-the-badge)](mailto:contato@pedroferreira.dev)
 
 *Science-informed. Business-oriented. Data-driven.*
 
@@ -72,7 +72,7 @@ My interests lie at the intersection of **business, science and technology**, co
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ppmferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppmferreira/)
-[![Email](https://img.shields.io/badge/Email-Contact-087E8B?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contato@pedroferreira.dev)
+[![Email](https://img.shields.io/badge/EMAIL-contato%40pedroferreira.dev-087E8B?style=for-the-badge)](mailto:contato@pedroferreira.dev)
 
 *Turning information into opportunities.*
 
