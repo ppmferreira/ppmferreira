@@ -4,7 +4,7 @@
 
 ### Data Analytics · Business Intelligence · Market Intelligence
 
-**Pharmacist | Science, Technology & Business**
+**Pharmacist | Software Development · Applied AI · Science & Technology**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ppmferreira/)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ppmferreira)
@@ -25,6 +25,8 @@ My professional focus is on transforming complex datasets into actionable insigh
 
 My previous computational research projects have involved public scientific datasets, molecular modeling, biomedical natural language processing and reproducible analytical workflows. I am broadening that foundation toward commercial, operational and strategic analytics.
 
+I also have hands-on experience with Python and Java through personal and collaborative software projects, including scientific applications and business-oriented systems. I use AI-assisted development, technical documentation and critical review to build and evaluate practical technology solutions.
+
 ## Areas of Focus
 
 | Business & Analytics | Science & Technology |
@@ -35,13 +37,17 @@ My previous computational research projects have involved public scientific data
 | Financial analytics & business strategy | Biotechnology & computational drug discovery |
 | Data visualization & storytelling | Scientific data validation |
 
-## Technical Toolkit
+## Technologies & Hands-on Experience
+
+### Core Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Data Analytics & Business Intelligence
 
 Tools and ongoing learning priorities:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
@@ -57,12 +63,24 @@ Tools and ongoing learning priorities:
 ![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-546E7A?style=for-the-badge)
 ![DiffDock](https://img.shields.io/badge/DiffDock-673AB7?style=for-the-badge)
 
-### Development & Version Control
+### Software Development
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-546E7A?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+Project experience with modular enterprise systems, domain-driven design, hexagonal architecture, API integration and technical documentation.
+
+### Databases, Infrastructure & Version Control
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-> Python and the scientific computing tools above are represented in existing projects. SQL, Power BI, Excel, Pandas and Matplotlib are areas of continuing development. The toolkit does not imply formal certification or advanced proficiency in every technology.
+> Python, Java and the software and scientific computing technologies listed above are represented in existing projects. SQL, Power BI, Excel, Pandas and Matplotlib remain priorities for continued professional development. This toolkit reflects hands-on project experience and learning, not a claim of advanced proficiency or formal certification in every technology.
 
 ---
 
@@ -99,6 +117,13 @@ An experimental question-answering application for biomedical text and CSV table
 
 **Analytical focus:** biomedical information retrieval, NLP and structured data interpretation. This is an NLP project, not a genomic analysis pipeline.
 
+### Enterprise Software Development
+
+![Java](https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat-square)
+![Database](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square)
+
+Project experience with a travel agency management system and institutional website, involving a Java/Spring Boot backend, PostgreSQL, React and modular software architecture. The work illustrates my interest in connecting technology with business operations, while continuing to strengthen my software engineering fundamentals.
+
 ### Healthcare Applications
 
 Exploratory work involving information organization, APIs and healthcare management support systems.
@@ -132,6 +157,8 @@ Planned portfolio projects and research topics, focused on real-world datasets a
 | **06 — Evaluate** | Distinguish findings from assumptions and assess recommendations. |
 
 I use AI-assisted workflows where appropriate, emphasizing human review, methodological transparency and validation.
+
+> I believe technology is not an end in itself, but a strategic tool for solving problems, creating value and driving business innovation.
 
 ## Education & Continuous Learning
 
